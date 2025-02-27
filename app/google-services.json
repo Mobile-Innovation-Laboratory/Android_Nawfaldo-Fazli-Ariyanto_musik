@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9293224098",
+    "project_id": "tubes-motion",
+    "storage_bucket": "tubes-motion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9293224098:android:40a55370501c224eff5ffb",
+        "android_client_info": {
+          "package_name": "com.example.tubes_motion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGBQEc1cSGryMq17fjS4QsrrmOXXTW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
